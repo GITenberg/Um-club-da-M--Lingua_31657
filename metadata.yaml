@@ -1,0 +1,40 @@
+_repo: Um-club-da-M--Lingua_31657
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Macedo, Manuel de
+    gutenberg_agent_id: '35386'
+    url: http://www.gutenberg.org/2009/agents/35386
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoevsky, Fyodor
+    - Достоевский, Фёдор Михайлович
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fiodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: Translation of "The Uncle's Dream"
+gutenberg_issued: '2010-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31657'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princes -- Russia -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+title: Um club da Má-Lingua
+url: http://www.gutenberg.org/ebooks/31657
