@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: Translation of "The Uncle's Dream"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31657#Um-club-da-M--Lingua
 gutenberg_issued: '2010-03-15'
 gutenberg_type: Text
 identifiers:
